@@ -1,4 +1,4 @@
-public class metod
+public class metod 
 { 
     info i = new info();
     public void Menu()

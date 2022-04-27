@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mhd84.ir/Desktop/[;'frdesa/hotel/hotel.csproj",
+      "projectUniqueName": "/Users/mhd84.ir/Desktop/c#/hotel/hotel.csproj",
       "projectName": "hotel",
-      "projectPath": "/Users/mhd84.ir/Desktop/[;'frdesa/hotel/hotel.csproj",
+      "projectPath": "/Users/mhd84.ir/Desktop/c#/hotel/hotel.csproj",
       "packagesPath": "/Users/mhd84.ir/.nuget/packages/",
-      "outputPath": "/Users/mhd84.ir/Desktop/[;'frdesa/hotel/obj/",
+      "outputPath": "/Users/mhd84.ir/Desktop/c#/hotel/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mhd84.ir/.nuget/NuGet/NuGet.Config"
